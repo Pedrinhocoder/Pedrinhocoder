@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Sou **Pedro Cauã Andrade Caetano**, desenvolvedor e criador da **RecyNet**. Conecto desenvolvimento de software, criatividade e sustentabilidade para transformar ideias em experiências digitais.
+Sou **Pedro Cauã Andrade Caetano**, **desenvolvedor freelancer** e criador da **RecyNet**. Conecto desenvolvimento de software, criatividade e sustentabilidade para transformar ideias em experiências digitais.
 
 Meu principal projeto explora como incentivar a reciclagem com registro de materiais, acompanhamento de impacto e gamificação. Também exploro o desenvolvimento de aplicativos com **Kotlin**.
 
@@ -43,6 +43,14 @@ Projeto de aplicativo em **Kotlin**, ampliando minha experiência para além do 
 
 ## Competências e ferramentas
 
+### UX/UI e design de interfaces
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" />
+</p>
+
+Conhecimentos em **UX/UI**, **Figma**, prototipação, wireframes, hierarquia visual e organização de fluxos de navegação, com atenção à usabilidade e ao design responsivo.
+
 ### Desenvolvimento web
 
 <p>
@@ -67,6 +75,12 @@ Exploração do desenvolvimento de aplicativos por meio de projetos próprios.
 
 Repositórios públicos, documentação dos projetos e publicação web com GitHub Pages.
 
+## Trabalho como freelancer
+
+Atuo como **freelancer**, unindo desenvolvimento web e design de interfaces para dar forma a sites e experiências digitais. Meu foco é entender a necessidade de cada projeto e construir soluções claras, funcionais e bem apresentadas.
+
+[Converse comigo pelo GitHub](https://github.com/Pedrinhocoder)
+
 ## Como trabalho
 
 | Etapa | Foco |
@@ -79,7 +93,7 @@ Repositórios públicos, documentação dos projetos e publicação web com GitH
 
 <p align="center">
   <strong>Pedro Cauã Andrade Caetano</strong><br />
-  Desenvolvedor · Criador da RecyNet<br /><br />
+  Desenvolvedor freelancer · UX/UI · Criador da RecyNet<br /><br />
   <a href="https://pedrinhocoder.github.io/RecyNet-2.0/">Conheça a RecyNet</a> ·
   <a href="https://github.com/Pedrinhocoder?tab=repositories">Explore meus projetos</a>
 </p>
