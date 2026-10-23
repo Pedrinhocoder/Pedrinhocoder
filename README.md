@@ -1,44 +1,85 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Pedro Cauã Andrade Caetano — Desenvolvimento Web, Criatividade e Sustentabilidade" width="100%" />
+</p>
 
-# Pedro Cauã Andrade Caetano
-### Desenvolvedor · Criador da RecyNet
+<p align="center">
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#competências-e-ferramentas">Competências</a> ·
+  <a href="#como-trabalho">Como trabalho</a> ·
+  <a href="https://pedrinhocoder.github.io/RecyNet-2.0/">RecyNet online</a>
+</p>
 
-**Ideias criativas. Soluções úteis. Tecnologia com propósito.**
+## Sobre mim
 
-[Conheça a RecyNet](https://pedrinhocoder.github.io/RecyNet-2.0/) · [Explore o código](https://github.com/Pedrinhocoder/RecyNet-2.0)
+Sou **Pedro Cauã Andrade Caetano**, desenvolvedor e criador da **RecyNet**. Conecto desenvolvimento de software, criatividade e sustentabilidade para transformar ideias em experiências digitais.
 
-</div>
+Meu principal projeto explora como incentivar a reciclagem com registro de materiais, acompanhamento de impacto e gamificação. Também exploro o desenvolvimento de aplicativos com **Kotlin**.
+
+## Projetos em destaque
+
+### 01 — RecyNet
+
+**Tecnologia para incentivar hábitos sustentáveis.**
+
+Plataforma web com registro de materiais recicláveis, pontuação, níveis, ranking e relatórios de atividades. A proposta é tornar a participação na reciclagem mais acessível e permitir o acompanhamento do impacto de cada usuário.
+
+**Destaques:** cálculo de pontos por material e peso, progressão por quantidade reciclada, busca de locais de coleta e simulação de recompensas.
+
+**Tecnologias:** JavaScript · HTML · CSS · GitHub Pages
+
+[Repositório](https://github.com/Pedrinhocoder/RecyNet-2.0) · [Demonstração online](https://pedrinhocoder.github.io/RecyNet-2.0/)
+
+> Protótipo em desenvolvimento: dados armazenados no navegador, pontos e recompensas simulados.
+
+### 02 — App da Emily
+
+**Explorando experiências em aplicativos.**
+
+Projeto de aplicativo em **Kotlin**, ampliando minha experiência para além do desenvolvimento web.
+
+**Tecnologia:** Kotlin
+
+[Repositório](https://github.com/Pedrinhocoder/App-da-Emily)
+
+## Competências e ferramentas
+
+### Desenvolvimento web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css&amp;theme=dark" alt="JavaScript, HTML e CSS" />
+</p>
+
+Interfaces, interações no navegador e implementação de funcionalidades para aplicações web.
+
+### Aplicativos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin&amp;theme=dark" alt="Kotlin" />
+</p>
+
+Exploração do desenvolvimento de aplicativos por meio de projetos próprios.
+
+### Código e publicação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" />
+</p>
+
+Repositórios públicos, documentação dos projetos e publicação web com GitHub Pages.
+
+## Como trabalho
+
+| Etapa | Foco |
+| :--- | :--- |
+| **01 · Entender** | Partir de uma necessidade e definir o que a solução deve oferecer. |
+| **02 · Construir** | Dar forma à interface e conectar as funcionalidades. |
+| **03 · Evoluir** | Testar os fluxos, identificar falhas e aprimorar a experiência. |
 
 ---
 
-### Sobre mim
-
-Sou Pedro, desenvolvedor e idealizador da **RecyNet**. Crio projetos que conectam tecnologia, sustentabilidade e experiências digitais.
-
-Meu trabalho com a RecyNet explora como transformar a reciclagem em uma jornada mais acessível, com registro de materiais, acompanhamento de impacto e incentivos por meio de gamificação.
-
-### Projeto em destaque
-
-#### ♻️ RecyNet
-Uma plataforma de incentivo à reciclagem em desenvolvimento.
-
-- Registro de materiais e acompanhamento do peso reciclado.
-- Pontuação, níveis e ranking para incentivar a participação.
-- Relatórios de atividades e simulação de recompensas.
-
-**JavaScript · HTML · CSS**
-
-[Visitar demonstração →](https://pedrinhocoder.github.io/RecyNet-2.0/)  
-[Ver repositório →](https://github.com/Pedrinhocoder/RecyNet-2.0)
-
-> A RecyNet está em fase de protótipo. Os pontos e as recompensas da demonstração são simulações.
-
-### Outras experiências
-
-Também exploro o desenvolvimento de aplicativos com **Kotlin**, no [App da Emily](https://github.com/Pedrinhocoder/App-da-Emily).
-
----
-
-<div align="center">
-<strong>Construindo, aprendendo e dando forma a novas ideias.</strong>
-</div>
+<p align="center">
+  <strong>Pedro Cauã Andrade Caetano</strong><br />
+  Desenvolvedor · Criador da RecyNet<br /><br />
+  <a href="https://pedrinhocoder.github.io/RecyNet-2.0/">Conheça a RecyNet</a> ·
+  <a href="https://github.com/Pedrinhocoder?tab=repositories">Explore meus projetos</a>
+</p>
