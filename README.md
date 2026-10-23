@@ -79,7 +79,7 @@ Repositórios públicos, documentação dos projetos e publicação web com GitH
 
 Atuo como **freelancer**, unindo desenvolvimento web e design de interfaces para dar forma a sites e experiências digitais. Meu foco é entender a necessidade de cada projeto e construir soluções claras, funcionais e bem apresentadas.
 
-[Converse comigo pelo GitHub](https://github.com/Pedrinhocoder)
+[Conheça meus projetos](https://github.com/Pedrinhocoder?tab=repositories)
 
 ## Como trabalho
 
